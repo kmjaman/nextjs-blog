@@ -52,7 +52,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className="container mx-auto px-4 mt-10 border-t border-gray-700 pt-6 flex flex-col md:flex-row justify-between items-center">
-                <p className="mb-6 md:mb-0">© 2024 Your Company, Inc. All rights reserved.</p>
+                <p className="mb-6 md:mb-0">© 2024 Blog Inc. All rights reserved.</p>
                 <div className="flex space-x-4">
                     <a href="#" className="text-gray-400 hover:text-gray-300">
                     <span className="sr-only">Facebook</span>
